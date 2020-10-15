@@ -1,2 +1,3 @@
 # vim
-vim
+
+Some notes about vim.
